@@ -1,0 +1,7 @@
+vertebrado
+mamifero
+onivoro
+ave
+carnivoro
+invertebrado
+anelideo
